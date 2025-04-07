@@ -1,5 +1,14 @@
 {
   "news": [
+
+    {
+      "id": 1,
+      "title": "🍏 Secret Fruit Hunt - New Universal Challenge!",
+      "content": "We're excited to announce our first cross-quest adventure! Now during ANY of our quests you can discover hidden fruits in unexpected places.\n\nEach fruit contains a special QR code that you can scan in the app (Profile → Scan QR section) to unlock:\n\n• Exclusive in-quest bonuses\n• Discounts on future bookings\n• Special gifts and surprises\n• Collector's badges for your profile\n\n🍎 Find all 5 fruits to get a special \"Fruit Hunter\" achievement and a 15% discount on your next booking!\n\n🔍 Where to look? Check:\n• Behind paintings and posters\n• Inside props and decorations\n• Under furniture elements\n• In unexpected corners of locations\n\nHappy hunting!\n— The QuestTime Team",
+      "image_url": "https://i.ibb.co/B5qByj3y/apple.jpg",
+      "date": "2023-11-15T09:30:00Z",
+      "is_important": true
+    },
     {
       "id": 2,
       "title": "🎉 Welcome to the world of QuestTime!",
@@ -7,14 +16,7 @@
       "image_url": "https://i.ibb.co/mCzQV5SR/news.jpg",
       "date": "2023-10-25T10:00:00Z",
       "is_important": true
-    },
-    {
-      "id": 1,
-      "title": "🍏 Secret Fruit Hunt - New Universal Challenge!",
-      "content": "We're excited to announce our first cross-quest adventure! Now during ANY of our quests you can discover hidden fruits in unexpected places.\n\nEach fruit contains a special QR code that you can scan in the app (Profile → Scan QR section) to unlock:\n\n• Exclusive in-quest bonuses\n• Discounts on future bookings\n• Special gifts and surprises\n• Collector's badges for your profile\n\n🍎 Find all 5 fruits to get a special \"Fruit Hunter\" achievement and a 15% discount on your next booking!\n\n🔍 Where to look? Check:\n• Behind paintings and posters\n• Inside props and decorations\n• Under furniture elements\n• In unexpected corners of locations\n\nHappy hunting!\n— The QuestTime Team",
-      "image_url": "https://i.ibb.co/8XqY3J2/fruit-hunt.jpg",
-      "date": "2023-11-15T09:30:00Z",
-      "is_important": true
     }
+
   ]
 }
